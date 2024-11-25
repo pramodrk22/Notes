@@ -1,0 +1,2 @@
+This is my first note in the repository.
+I will be experimenting with Git commands in this repo.
